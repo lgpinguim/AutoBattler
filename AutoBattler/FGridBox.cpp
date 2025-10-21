@@ -1,5 +1,7 @@
 #include "FGridBox.h"
 
+#include <vector>
+
 class FGrid
 {
 public:
